@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio
 
-**Name:** [Your Name]
-**Registration Number:** [Your Reg No.]
+**Name:** Sagar Arya
+**Registration Number:** 23BMR10009
 **Branch:** B.Tech Mechanical Engineering
 **Course:** CSE0001 - Digital Literacy
 
